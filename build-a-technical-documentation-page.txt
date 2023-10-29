@@ -1,0 +1,103 @@
+** start of undefined **
+
+<main id='main-doc'>
+   <link rel='stylesheet'href='./styles.css'>
+
+<nav id='navbar'>
+
+<header>Topic</header>
+
+<a class='nav-link' href='#filler_text_1'>Filler Text 1</a>
+<a class='nav-link'href='#filler_text_2'>Filler Text 2</a>
+<a class='nav-link'href='#filler_text_3'>Filler Text 3</a>
+<a class='nav-link'href='#filler_text_4'>Filler Text 4</a>
+<a class='nav-link'href='#filler_text_5'>Filler Text 5</a>
+
+</nav>
+
+<section class='main-section'id='filler_text_1'>
+  <header>Filler Text 1</header>
+  <p>This is paragraph 1.</p>
+  <p>This is paragraph 2.</p>
+
+  <code></code>
+
+<ul>
+  <li></li>
+   <li></li>
+    <li></li>
+     <li></li>
+      <li></li>
+</ul>
+
+</section>
+<section class='main-section' id='filler_text_2'>
+   <header>Filler Text 2</header>
+   <p>This is paragraph 3.</p>
+   <p>This is paragraph 4.</p>
+
+   <code></code>
+
+</section>
+<section class='main-section'id='filler_text_3'>
+   <header>Filler Text 3</header>
+   <p>This is paragraph 5.</p>
+   <p>This is paragraph 6.</p>
+
+   <code></code>
+
+</section>
+<section class='main-section'id='filler_text_4'>
+   <header>Filler Text 4</header>
+   <p>This is paragraph 7.</p>
+   <p>This is paragraph 8.</p>
+
+   <code></code>
+
+</section>
+<section class='main-section'id='filler_text_5'>
+   <header>Filler Text 5</header>
+   <p>This is paragraph 9.</p>
+   <p>This is paragraph 10.</p>
+
+   <code></code>
+
+</section>
+</main>
+
+** end of undefined **
+
+** start of undefined **
+
+#navbar {
+  position: fixed;
+  left:0;
+  padding: 20px;
+}
+
+#navbar header{
+  font-size: 1.618em;
+  margin-bottom: 7;
+}
+
+
+#navbar a{
+  text-decoration: none;
+  display: block;
+  margin-bottom: 12px;
+
+}
+
+#main-doc{
+  margin-left:200px
+}
+
+@media (max-height: 600px){
+  .main-section{
+    font-size: .7em;
+  }
+}
+
+
+** end of undefined **
+

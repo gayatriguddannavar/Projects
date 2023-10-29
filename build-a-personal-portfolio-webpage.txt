@@ -1,0 +1,43 @@
+** start of undefined **
+
+<link rel="stylesheet" href="styles.css"> 
+
+<ul id='navbar'>
+<li>
+  <a href='#welcome-section'>Welcome Section</a>
+  </li>
+  <li>
+     <a href='#projects'>Projects</a>
+     </li>
+  </ul>
+
+<div id='welcome-section'>
+
+  <h1>Text</h1>
+
+</div>
+
+<div id='projects'>
+
+  <div class='project-tile'></div>
+
+  <a href="https://www.youtube.com/@gayatriguddannavar">gayatriguddannavar YouTube</a>
+
+</div>
+
+<div id='profiles'>
+
+   <a id='profile-link' target='_blank' href="https://www.youtube.com/@gayatriguddannavar">FreeCodeCamp Profiles</a>
+
+   </div>
+
+** end of undefined **
+
+** start of undefined **
+
+@media (min-width: 200px){
+  background-color: blue;
+}
+
+** end of undefined **
+
